@@ -1,5 +1,11 @@
 # python_practice_20210525
 
+# 練習題 
+總分100
+
+* hw1.py (50%) 
+* hw2.py (50%)
+
 # 流程
 
 1. 沒有GitHub帳號的同學請先註冊一個GitHub帳號。
